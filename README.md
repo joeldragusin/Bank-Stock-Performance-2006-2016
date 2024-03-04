@@ -1,1 +1,3 @@
 Bank Stock Performance 2006-2016
+In this project I delved into Data Science methodologies and finance, using Python as the primary tool to investigate the historical performance of various bank stocks during the 2007-2008 financial crisis and it subsequent recovery phase. extending until early 2016.
+I implemented data cleaning and preprocessing techniques to ensure data accuracy and consistency for further analysis, identified trends and patterns and explored potential relationships between different stocks and external economic factors that might have influenced their performance during the crisis and recovery.
